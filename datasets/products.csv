@@ -1,0 +1,301 @@
+product_id,title,brand,category,price,currency,weight_g,rating_avg,num_ratings,inventory,created_at,product_name
+P000001,NovaLink Power Bank 480,NovaLink,Power Bank,4854.9,INR,1837,4.49,218,184,2023-01-09,Power Bank 480
+P000002,Voltix Gaming Console 23,Voltix,Gaming Console,3582.6,INR,2236,3.29,303,372,2022-05-26,Gaming Console 23
+P000003,NeoTech Bluetooth Speaker 66,NeoTech,Bluetooth Speaker,15915.14,INR,1184,2.87,317,112,2024-07-31,Bluetooth Speaker 66
+P000004,Astra Bluetooth Speaker 366,Astra,Bluetooth Speaker,28498.29,INR,890,3.27,403,77,2022-02-18,Bluetooth Speaker 366
+P000005,NeoTech Power Bank 99,NeoTech,Power Bank,10614.61,INR,1051,4.06,269,363,2024-01-17,Power Bank 99
+P000006,PixelWave Wireless Earbuds 85,PixelWave,Wireless Earbuds,4985.6,INR,2153,4.44,395,239,2024-03-18,Wireless Earbuds 85
+P000007,NovaLink Headphones 74,NovaLink,Headphones,9020.41,INR,820,3.99,161,353,2023-03-15,Headphones 74
+P000008,Everest Smartphone 414,Everest,Smartphone,6554.0,INR,2144,3.45,127,391,2023-04-30,Smartphone 414
+P000009,PixelWave Bluetooth Speaker 374,PixelWave,Bluetooth Speaker,12421.53,INR,697,3.72,229,138,2021-12-18,Bluetooth Speaker 374
+P000010,ByteCorp Power Bank 170,ByteCorp,Power Bank,9879.07,INR,1146,3.89,178,196,2023-11-17,Power Bank 170
+P000011,Skyline Gaming Console 121,Skyline,Gaming Console,7896.07,INR,606,4.07,163,182,2021-07-11,Gaming Console 121
+P000012,Everest Gaming Console 8,Everest,Gaming Console,13868.33,INR,1372,3.0,451,117,2023-02-27,Gaming Console 8
+P000013,Everest Smartphone 381,Everest,Smartphone,5276.79,INR,1158,3.84,253,11,2024-06-20,Smartphone 381
+P000014,Voltix Smartphone 312,Voltix,Smartphone,1556.5,INR,2996,3.88,417,454,2023-01-07,Smartphone 312
+P000015,NeoTech Phone Case 395,NeoTech,Phone Case,15480.36,INR,2304,3.91,49,290,2022-11-29,Phone Case 395
+P000016,ByteCorp Power Bank 234,ByteCorp,Power Bank,11307.44,INR,1533,4.15,384,276,2023-07-28,Power Bank 234
+P000017,NovaLink Wireless Earbuds 418,NovaLink,Wireless Earbuds,27044.89,INR,2167,4.37,120,34,2024-05-23,Wireless Earbuds 418
+P000018,Lumina Gaming Console 385,Lumina,Gaming Console,20127.07,INR,2984,3.87,88,157,2021-07-07,Gaming Console 385
+P000019,NeoTech Phone Case 201,NeoTech,Phone Case,7608.53,INR,2484,3.88,307,215,2022-05-19,Phone Case 201
+P000020,NeoTech Smartwatch 497,NeoTech,Smartwatch,11279.19,INR,1715,4.2,119,97,2023-12-27,Smartwatch 497
+P000021,Everest Charger 29,Everest,Charger,5715.67,INR,2320,3.31,207,1,2023-09-23,Charger 29
+P000022,Lumina Phone Case 335,Lumina,Phone Case,12873.42,INR,656,4.4,489,132,2024-09-08,Phone Case 335
+P000023,Astra Tablet 456,Astra,Tablet,8812.75,INR,968,3.43,342,210,2021-12-10,Tablet 456
+P000024,Everest Wireless Earbuds 480,Everest,Wireless Earbuds,4031.59,INR,901,4.08,12,214,2024-12-11,Wireless Earbuds 480
+P000025,PixelWave Gaming Console 216,PixelWave,Gaming Console,8226.18,INR,2349,4.17,390,289,2022-07-07,Gaming Console 216
+P000026,ZenX Monitor 369,ZenX,Monitor,3799.28,INR,2521,4.01,290,285,2022-06-16,Monitor 369
+P000027,NeoTech Tablet 497,NeoTech,Tablet,9971.0,INR,705,3.92,111,364,2024-03-29,Tablet 497
+P000028,Astra Tablet 384,Astra,Tablet,7543.04,INR,358,3.19,86,185,2021-12-12,Tablet 384
+P000029,Lumina Charger 95,Lumina,Charger,4487.28,INR,1736,3.31,210,370,2024-06-13,Charger 95
+P000030,Everest Smartphone 263,Everest,Smartphone,5230.46,INR,1962,4.19,90,205,2023-08-12,Smartphone 263
+P000031,ZenX Smartwatch 202,ZenX,Smartwatch,9350.27,INR,307,3.47,130,43,2024-01-08,Smartwatch 202
+P000032,ZenX Headphones 484,ZenX,Headphones,17304.54,INR,383,3.29,95,92,2022-08-13,Headphones 484
+P000033,NeoTech Charger 232,NeoTech,Charger,10991.17,INR,657,3.89,400,269,2024-03-18,Charger 232
+P000034,PixelWave Monitor 318,PixelWave,Monitor,6964.46,INR,871,3.98,145,67,2021-02-04,Monitor 318
+P000035,NovaLink Headphones 471,NovaLink,Headphones,11150.92,INR,2796,3.11,120,316,2022-08-07,Headphones 471
+P000036,NovaLink Smartwatch 128,NovaLink,Smartwatch,11457.98,INR,201,4.02,222,391,2021-08-23,Smartwatch 128
+P000037,NeoTech Smartwatch 106,NeoTech,Smartwatch,9094.75,INR,1881,2.83,426,36,2021-11-29,Smartwatch 106
+P000038,Lumina Power Bank 261,Lumina,Power Bank,15470.74,INR,246,3.39,58,309,2023-02-25,Power Bank 261
+P000039,Skyline Bluetooth Speaker 380,Skyline,Bluetooth Speaker,8020.67,INR,453,4.54,392,52,2023-12-01,Bluetooth Speaker 380
+P000040,Skyline Laptop 487,Skyline,Laptop,8143.45,INR,1379,3.9,492,372,2021-03-09,Laptop 487
+P000041,Astra Monitor 410,Astra,Monitor,1903.66,INR,1328,3.25,67,154,2023-01-05,Monitor 410
+P000042,Lumina Gaming Console 336,Lumina,Gaming Console,16345.74,INR,1565,3.91,417,393,2024-11-05,Gaming Console 336
+P000043,Astra Power Bank 456,Astra,Power Bank,17391.37,INR,2345,3.81,370,126,2023-02-04,Power Bank 456
+P000044,Lumina Gaming Console 398,Lumina,Gaming Console,10230.05,INR,646,3.12,13,360,2024-04-04,Gaming Console 398
+P000045,PixelWave Smartwatch 459,PixelWave,Smartwatch,33933.94,INR,1237,3.95,182,329,2022-11-24,Smartwatch 459
+P000046,Skyline Gaming Console 36,Skyline,Gaming Console,5336.22,INR,2961,4.11,311,437,2021-05-23,Gaming Console 36
+P000047,ByteCorp Laptop 142,ByteCorp,Laptop,5328.32,INR,1841,3.2,197,240,2024-07-14,Laptop 142
+P000048,NovaLink Monitor 390,NovaLink,Monitor,7069.52,INR,973,3.19,125,303,2022-03-06,Monitor 390
+P000049,Everest Bluetooth Speaker 329,Everest,Bluetooth Speaker,5241.65,INR,2849,3.25,21,458,2023-11-07,Bluetooth Speaker 329
+P000050,ZenX Smartphone 160,ZenX,Smartphone,16933.56,INR,1734,3.68,231,174,2024-04-10,Smartphone 160
+P000051,ZenX Gaming Console 432,ZenX,Gaming Console,9402.85,INR,2539,4.44,204,433,2021-03-16,Gaming Console 432
+P000052,Skyline Charger 180,Skyline,Charger,7382.37,INR,2274,3.31,119,373,2023-12-10,Charger 180
+P000053,ZenX Tablet 442,ZenX,Tablet,3829.79,INR,1688,3.77,270,399,2021-12-25,Tablet 442
+P000054,PixelWave Headphones 397,PixelWave,Headphones,9156.14,INR,769,3.44,226,355,2021-06-07,Headphones 397
+P000055,ByteCorp Smartwatch 318,ByteCorp,Smartwatch,2007.76,INR,2791,4.95,270,61,2022-10-19,Smartwatch 318
+P000056,ZenX Smartwatch 31,ZenX,Smartwatch,14987.22,INR,1957,3.92,420,405,2021-03-26,Smartwatch 31
+P000057,Astra Bluetooth Speaker 175,Astra,Bluetooth Speaker,11903.58,INR,472,3.49,79,84,2024-08-12,Bluetooth Speaker 175
+P000058,NeoTech Charger 339,NeoTech,Charger,5901.4,INR,2773,4.3,152,105,2021-07-14,Charger 339
+P000059,ByteCorp Headphones 45,ByteCorp,Headphones,3503.05,INR,1203,4.96,44,43,2021-04-19,Headphones 45
+P000060,ZenX Headphones 16,ZenX,Headphones,4608.61,INR,484,3.74,51,387,2021-02-24,Headphones 16
+P000061,ZenX Smartphone 315,ZenX,Smartphone,7673.11,INR,991,3.89,322,469,2023-11-08,Smartphone 315
+P000062,Voltix Gaming Console 207,Voltix,Gaming Console,14027.49,INR,1397,3.32,43,84,2022-09-07,Gaming Console 207
+P000063,Voltix Power Bank 398,Voltix,Power Bank,8662.95,INR,1323,4.74,85,399,2024-05-15,Power Bank 398
+P000064,PixelWave Smartphone 344,PixelWave,Smartphone,12121.51,INR,1057,3.61,441,38,2024-07-11,Smartphone 344
+P000065,Skyline Smartphone 382,Skyline,Smartphone,6032.71,INR,2282,3.61,116,325,2024-08-22,Smartphone 382
+P000066,PixelWave Smartwatch 56,PixelWave,Smartwatch,5771.09,INR,955,4.55,176,277,2022-02-20,Smartwatch 56
+P000067,NeoTech Wireless Earbuds 311,NeoTech,Wireless Earbuds,31589.7,INR,549,4.04,315,163,2023-10-11,Wireless Earbuds 311
+P000068,Skyline Charger 309,Skyline,Charger,5552.21,INR,2056,3.47,378,223,2021-03-17,Charger 309
+P000069,Lumina Monitor 205,Lumina,Monitor,3904.83,INR,2988,3.54,118,416,2023-12-22,Monitor 205
+P000070,Astra Monitor 385,Astra,Monitor,6723.79,INR,787,3.77,28,380,2024-11-04,Monitor 385
+P000071,Astra Bluetooth Speaker 236,Astra,Bluetooth Speaker,22553.71,INR,339,4.15,313,464,2022-12-20,Bluetooth Speaker 236
+P000072,Everest Headphones 479,Everest,Headphones,4134.58,INR,1633,4.73,68,35,2022-08-22,Headphones 479
+P000073,ByteCorp Gaming Console 258,ByteCorp,Gaming Console,1878.4,INR,1592,4.34,461,278,2022-11-16,Gaming Console 258
+P000074,Everest Charger 484,Everest,Charger,3117.52,INR,2890,4.15,218,108,2021-07-30,Charger 484
+P000075,Voltix Charger 48,Voltix,Charger,8064.74,INR,1973,3.85,221,269,2023-12-08,Charger 48
+P000076,Astra Smartphone 355,Astra,Smartphone,6658.28,INR,193,3.93,61,470,2024-11-13,Smartphone 355
+P000077,Lumina Power Bank 84,Lumina,Power Bank,7912.32,INR,666,3.85,169,154,2022-08-26,Power Bank 84
+P000078,Skyline Smartphone 145,Skyline,Smartphone,2559.2,INR,2302,4.24,472,250,2021-08-17,Smartphone 145
+P000079,NovaLink Charger 378,NovaLink,Charger,14421.0,INR,1143,3.01,499,362,2022-02-24,Charger 378
+P000080,Skyline Smartwatch 175,Skyline,Smartwatch,8974.17,INR,826,3.77,377,496,2021-01-13,Smartwatch 175
+P000081,Everest Tablet 495,Everest,Tablet,10833.4,INR,1088,2.95,323,200,2024-09-25,Tablet 495
+P000082,NovaLink Gaming Console 161,NovaLink,Gaming Console,11929.09,INR,691,3.56,120,151,2024-10-03,Gaming Console 161
+P000083,PixelWave Phone Case 220,PixelWave,Phone Case,20646.27,INR,1402,3.89,492,290,2024-03-12,Phone Case 220
+P000084,PixelWave Smartphone 480,PixelWave,Smartphone,4144.77,INR,880,4.21,49,280,2021-09-12,Smartphone 480
+P000085,NovaLink Monitor 253,NovaLink,Monitor,9244.19,INR,1296,4.74,210,403,2022-05-03,Monitor 253
+P000086,Astra Bluetooth Speaker 212,Astra,Bluetooth Speaker,8156.67,INR,1058,4.44,270,425,2024-12-10,Bluetooth Speaker 212
+P000087,Lumina Wireless Earbuds 223,Lumina,Wireless Earbuds,2385.97,INR,403,3.44,382,88,2021-01-31,Wireless Earbuds 223
+P000088,Voltix Phone Case 488,Voltix,Phone Case,5514.16,INR,1017,4.12,446,137,2023-10-02,Phone Case 488
+P000089,ZenX Wireless Earbuds 33,ZenX,Wireless Earbuds,10776.0,INR,2777,3.92,295,11,2024-05-25,Wireless Earbuds 33
+P000090,Lumina Power Bank 52,Lumina,Power Bank,3504.57,INR,550,4.33,340,221,2022-07-14,Power Bank 52
+P000091,Everest Smartphone 36,Everest,Smartphone,14979.82,INR,1917,4.08,447,274,2021-09-18,Smartphone 36
+P000092,ZenX Gaming Console 297,ZenX,Gaming Console,6486.85,INR,2721,4.12,449,101,2024-03-26,Gaming Console 297
+P000093,Skyline Smartphone 330,Skyline,Smartphone,5598.67,INR,669,3.47,303,435,2022-12-23,Smartphone 330
+P000094,Voltix Charger 280,Voltix,Charger,23988.95,INR,970,4.71,372,112,2023-12-09,Charger 280
+P000095,Skyline Gaming Console 23,Skyline,Gaming Console,19020.33,INR,1497,4.05,358,162,2022-10-04,Gaming Console 23
+P000096,Skyline Power Bank 272,Skyline,Power Bank,4280.67,INR,1967,4.1,265,405,2021-11-20,Power Bank 272
+P000097,Skyline Wireless Earbuds 356,Skyline,Wireless Earbuds,14983.54,INR,2607,3.43,242,347,2021-12-25,Wireless Earbuds 356
+P000098,PixelWave Gaming Console 89,PixelWave,Gaming Console,5716.11,INR,223,3.22,89,206,2021-05-02,Gaming Console 89
+P000099,Astra Wireless Earbuds 89,Astra,Wireless Earbuds,4249.51,INR,1745,4.54,463,304,2024-09-20,Wireless Earbuds 89
+P000100,Lumina Smartwatch 266,Lumina,Smartwatch,11748.29,INR,151,3.42,259,6,2024-06-29,Smartwatch 266
+P000101,Lumina Phone Case 381,Lumina,Phone Case,6112.54,INR,668,3.61,453,95,2023-03-16,Phone Case 381
+P000102,ByteCorp Headphones 394,ByteCorp,Headphones,1407.69,INR,326,4.6,469,307,2022-12-04,Headphones 394
+P000103,NeoTech Headphones 209,NeoTech,Headphones,14991.05,INR,1555,3.27,85,354,2021-04-20,Headphones 209
+P000104,Lumina Headphones 351,Lumina,Headphones,2558.3,INR,2216,4.56,364,254,2023-03-07,Headphones 351
+P000105,NeoTech Smartphone 156,NeoTech,Smartphone,5710.89,INR,478,4.43,369,484,2021-09-13,Smartphone 156
+P000106,Skyline Charger 189,Skyline,Charger,6360.39,INR,736,3.57,265,367,2021-05-24,Charger 189
+P000107,Voltix Bluetooth Speaker 108,Voltix,Bluetooth Speaker,21216.56,INR,2004,3.42,195,392,2021-12-20,Bluetooth Speaker 108
+P000108,Voltix Laptop 295,Voltix,Laptop,3771.5,INR,1894,4.05,56,346,2023-07-30,Laptop 295
+P000109,Everest Smartwatch 493,Everest,Smartwatch,6452.31,INR,1407,3.62,53,428,2022-05-12,Smartwatch 493
+P000110,ByteCorp Power Bank 155,ByteCorp,Power Bank,26918.74,INR,306,4.03,78,142,2023-01-18,Power Bank 155
+P000111,Everest Smartwatch 168,Everest,Smartwatch,5473.22,INR,2220,3.49,264,17,2022-10-15,Smartwatch 168
+P000112,NovaLink Wireless Earbuds 400,NovaLink,Wireless Earbuds,6823.86,INR,2863,3.71,182,442,2023-10-05,Wireless Earbuds 400
+P000113,NeoTech Smartwatch 245,NeoTech,Smartwatch,6887.5,INR,885,3.63,84,66,2021-03-11,Smartwatch 245
+P000114,ByteCorp Laptop 271,ByteCorp,Laptop,7683.51,INR,931,3.78,348,207,2023-03-03,Laptop 271
+P000115,NovaLink Laptop 261,NovaLink,Laptop,6741.12,INR,1334,4.85,25,153,2022-07-01,Laptop 261
+P000116,Voltix Wireless Earbuds 165,Voltix,Wireless Earbuds,2602.16,INR,1988,4.11,231,124,2022-05-06,Wireless Earbuds 165
+P000117,PixelWave Bluetooth Speaker 228,PixelWave,Bluetooth Speaker,8976.59,INR,2317,4.02,407,423,2023-02-14,Bluetooth Speaker 228
+P000118,NovaLink Power Bank 103,NovaLink,Power Bank,6809.5,INR,1821,4.1,380,172,2024-06-02,Power Bank 103
+P000119,Everest Smartphone 211,Everest,Smartphone,3582.64,INR,381,4.27,393,162,2021-02-02,Smartphone 211
+P000120,NovaLink Wireless Earbuds 489,NovaLink,Wireless Earbuds,8541.74,INR,1843,4.2,387,393,2023-01-03,Wireless Earbuds 489
+P000121,Voltix Smartwatch 316,Voltix,Smartwatch,5892.92,INR,2951,3.77,490,183,2022-10-13,Smartwatch 316
+P000122,Lumina Tablet 479,Lumina,Tablet,9424.92,INR,1686,3.3,55,493,2021-10-05,Tablet 479
+P000123,Voltix Laptop 9,Voltix,Laptop,4160.71,INR,398,4.31,422,1,2022-12-02,Laptop 9
+P000124,Skyline Phone Case 76,Skyline,Phone Case,12031.44,INR,2936,3.99,365,472,2024-12-10,Phone Case 76
+P000125,ByteCorp Bluetooth Speaker 133,ByteCorp,Bluetooth Speaker,7967.69,INR,232,4.29,54,4,2024-09-20,Bluetooth Speaker 133
+P000126,NeoTech Smartphone 365,NeoTech,Smartphone,5044.27,INR,1556,4.06,441,252,2023-11-27,Smartphone 365
+P000127,ByteCorp Gaming Console 429,ByteCorp,Gaming Console,3350.66,INR,473,2.7,146,431,2022-07-24,Gaming Console 429
+P000128,ByteCorp Smartwatch 165,ByteCorp,Smartwatch,17764.33,INR,1639,3.75,356,150,2021-10-19,Smartwatch 165
+P000129,Skyline Headphones 16,Skyline,Headphones,8675.42,INR,1732,3.77,108,231,2021-09-22,Headphones 16
+P000130,Voltix Laptop 253,Voltix,Laptop,9669.73,INR,2056,4.46,206,174,2022-03-20,Laptop 253
+P000131,Lumina Headphones 358,Lumina,Headphones,5125.26,INR,1993,3.5,187,27,2023-04-16,Headphones 358
+P000132,NeoTech Phone Case 133,NeoTech,Phone Case,8615.81,INR,720,3.44,373,19,2023-04-05,Phone Case 133
+P000133,PixelWave Headphones 247,PixelWave,Headphones,16242.23,INR,2862,4.18,126,148,2024-03-24,Headphones 247
+P000134,NeoTech Power Bank 453,NeoTech,Power Bank,2734.96,INR,2817,3.7,213,356,2023-09-28,Power Bank 453
+P000135,NeoTech Gaming Console 496,NeoTech,Gaming Console,22774.94,INR,1627,4.19,89,412,2023-02-19,Gaming Console 496
+P000136,Astra Phone Case 391,Astra,Phone Case,14454.06,INR,615,3.98,45,463,2023-06-04,Phone Case 391
+P000137,Voltix Monitor 133,Voltix,Monitor,6599.23,INR,2839,3.01,63,167,2022-02-05,Monitor 133
+P000138,Lumina Gaming Console 412,Lumina,Gaming Console,5743.43,INR,195,3.36,457,189,2022-09-03,Gaming Console 412
+P000139,NeoTech Tablet 193,NeoTech,Tablet,2222.52,INR,1090,4.2,170,302,2021-02-06,Tablet 193
+P000140,Astra Smartphone 113,Astra,Smartphone,8911.24,INR,686,4.51,182,464,2021-03-07,Smartphone 113
+P000141,Voltix Laptop 252,Voltix,Laptop,6119.37,INR,2806,4.23,164,34,2024-01-23,Laptop 252
+P000142,Lumina Bluetooth Speaker 366,Lumina,Bluetooth Speaker,8770.28,INR,2548,4.41,69,383,2023-11-10,Bluetooth Speaker 366
+P000143,Lumina Bluetooth Speaker 403,Lumina,Bluetooth Speaker,13663.64,INR,297,3.1,465,463,2024-12-23,Bluetooth Speaker 403
+P000144,Astra Wireless Earbuds 223,Astra,Wireless Earbuds,2896.65,INR,2333,3.64,75,17,2023-09-05,Wireless Earbuds 223
+P000145,Everest Headphones 385,Everest,Headphones,5959.63,INR,2428,3.48,305,174,2021-05-24,Headphones 385
+P000146,PixelWave Power Bank 376,PixelWave,Power Bank,10242.21,INR,900,4.25,333,224,2022-11-07,Power Bank 376
+P000147,ZenX Gaming Console 133,ZenX,Gaming Console,10868.57,INR,2566,4.03,218,92,2022-01-30,Gaming Console 133
+P000148,Everest Laptop 430,Everest,Laptop,12881.2,INR,2691,4.28,372,251,2021-03-17,Laptop 430
+P000149,ZenX Gaming Console 209,ZenX,Gaming Console,8438.86,INR,1185,4.1,256,383,2022-05-30,Gaming Console 209
+P000150,Everest Gaming Console 304,Everest,Gaming Console,10439.72,INR,1740,4.53,482,128,2023-09-06,Gaming Console 304
+P000151,NovaLink Smartphone 484,NovaLink,Smartphone,6458.66,INR,1540,3.6,484,83,2021-07-27,Smartphone 484
+P000152,Everest Bluetooth Speaker 463,Everest,Bluetooth Speaker,13464.1,INR,1626,4.16,158,292,2022-04-08,Bluetooth Speaker 463
+P000153,ByteCorp Monitor 132,ByteCorp,Monitor,6638.88,INR,2826,4.2,66,191,2023-11-20,Monitor 132
+P000154,Lumina Charger 130,Lumina,Charger,4602.67,INR,270,4.47,16,33,2023-01-14,Charger 130
+P000155,Everest Laptop 256,Everest,Laptop,7800.12,INR,302,3.58,334,199,2024-10-01,Laptop 256
+P000156,NeoTech Headphones 131,NeoTech,Headphones,11621.08,INR,2694,4.17,69,293,2022-05-03,Headphones 131
+P000157,Lumina Monitor 359,Lumina,Monitor,5185.82,INR,1465,3.53,86,360,2024-12-31,Monitor 359
+P000158,Voltix Charger 382,Voltix,Charger,17688.94,INR,1420,4.32,387,461,2024-09-07,Charger 382
+P000159,ByteCorp Smartwatch 44,ByteCorp,Smartwatch,43808.78,INR,1794,3.63,465,172,2022-04-05,Smartwatch 44
+P000160,ByteCorp Wireless Earbuds 163,ByteCorp,Wireless Earbuds,4244.8,INR,1129,3.85,160,95,2023-03-17,Wireless Earbuds 163
+P000161,NeoTech Laptop 449,NeoTech,Laptop,8358.37,INR,1485,4.25,355,295,2021-02-26,Laptop 449
+P000162,PixelWave Smartwatch 59,PixelWave,Smartwatch,28931.49,INR,1995,4.12,228,47,2024-03-13,Smartwatch 59
+P000163,Everest Charger 474,Everest,Charger,2851.78,INR,1266,3.94,439,425,2022-04-13,Charger 474
+P000164,NovaLink Smartphone 469,NovaLink,Smartphone,11264.26,INR,1168,4.36,419,30,2022-11-17,Smartphone 469
+P000165,ByteCorp Monitor 185,ByteCorp,Monitor,8284.02,INR,2027,3.07,199,348,2022-01-18,Monitor 185
+P000166,Everest Smartphone 154,Everest,Smartphone,7121.76,INR,1918,3.59,349,266,2024-12-28,Smartphone 154
+P000167,ZenX Charger 386,ZenX,Charger,8556.79,INR,940,4.54,297,149,2023-02-02,Charger 386
+P000168,Lumina Smartwatch 62,Lumina,Smartwatch,10536.42,INR,2738,4.31,358,214,2024-12-17,Smartwatch 62
+P000169,Astra Smartwatch 349,Astra,Smartwatch,14585.03,INR,2421,4.89,234,221,2023-04-02,Smartwatch 349
+P000170,Astra Phone Case 16,Astra,Phone Case,8158.1,INR,467,3.95,49,361,2024-05-03,Phone Case 16
+P000171,NovaLink Gaming Console 434,NovaLink,Gaming Console,8566.44,INR,2787,4.04,310,295,2024-05-15,Gaming Console 434
+P000172,Astra Monitor 262,Astra,Monitor,9326.16,INR,2620,4.08,357,108,2021-08-16,Monitor 262
+P000173,Lumina Phone Case 430,Lumina,Phone Case,9569.86,INR,1516,3.46,215,448,2022-05-11,Phone Case 430
+P000174,Lumina Tablet 352,Lumina,Tablet,4656.0,INR,2140,3.48,252,444,2023-11-06,Tablet 352
+P000175,ByteCorp Phone Case 382,ByteCorp,Phone Case,4714.96,INR,897,4.61,153,82,2023-11-01,Phone Case 382
+P000176,Astra Tablet 293,Astra,Tablet,14264.88,INR,1870,4.25,350,19,2021-04-17,Tablet 293
+P000177,NovaLink Headphones 364,NovaLink,Headphones,5183.45,INR,2707,4.58,12,494,2024-10-18,Headphones 364
+P000178,Everest Tablet 157,Everest,Tablet,12150.03,INR,2293,2.81,437,218,2021-05-15,Tablet 157
+P000179,ZenX Charger 162,ZenX,Charger,9889.19,INR,1724,4.54,221,316,2024-08-05,Charger 162
+P000180,PixelWave Smartphone 309,PixelWave,Smartphone,5060.05,INR,2985,4.07,11,90,2024-01-19,Smartphone 309
+P000181,ZenX Charger 176,ZenX,Charger,13011.9,INR,896,3.89,95,412,2022-12-27,Charger 176
+P000182,NovaLink Gaming Console 308,NovaLink,Gaming Console,10402.7,INR,2765,3.45,23,201,2023-12-26,Gaming Console 308
+P000183,Everest Monitor 41,Everest,Monitor,8743.98,INR,1252,3.36,493,61,2021-10-17,Monitor 41
+P000184,ZenX Power Bank 67,ZenX,Power Bank,2463.93,INR,1763,4.62,86,188,2022-04-02,Power Bank 67
+P000185,PixelWave Power Bank 413,PixelWave,Power Bank,9567.96,INR,2234,4.18,219,105,2024-06-22,Power Bank 413
+P000186,ZenX Smartphone 416,ZenX,Smartphone,14510.15,INR,1171,3.21,169,85,2023-10-17,Smartphone 416
+P000187,Astra Monitor 35,Astra,Monitor,16674.24,INR,2850,4.58,151,0,2021-04-08,Monitor 35
+P000188,Everest Smartwatch 495,Everest,Smartwatch,5166.75,INR,2601,3.75,157,11,2024-07-21,Smartwatch 495
+P000189,Everest Gaming Console 29,Everest,Gaming Console,4750.42,INR,2231,3.78,125,383,2022-09-15,Gaming Console 29
+P000190,NovaLink Bluetooth Speaker 143,NovaLink,Bluetooth Speaker,25880.08,INR,2407,4.01,445,494,2022-08-09,Bluetooth Speaker 143
+P000191,Everest Laptop 75,Everest,Laptop,13304.32,INR,2840,4.68,35,49,2024-07-18,Laptop 75
+P000192,Skyline Smartwatch 56,Skyline,Smartwatch,10095.04,INR,2029,3.86,415,209,2021-03-31,Smartwatch 56
+P000193,ByteCorp Laptop 183,ByteCorp,Laptop,6889.56,INR,867,4.63,236,348,2022-03-23,Laptop 183
+P000194,Voltix Smartphone 383,Voltix,Smartphone,1939.08,INR,827,4.26,405,436,2021-11-06,Smartphone 383
+P000195,ZenX Smartwatch 301,ZenX,Smartwatch,8970.39,INR,1410,3.55,349,48,2021-12-14,Smartwatch 301
+P000196,Skyline Laptop 218,Skyline,Laptop,7941.35,INR,536,3.75,154,381,2021-09-16,Laptop 218
+P000197,Skyline Gaming Console 493,Skyline,Gaming Console,13369.29,INR,1072,4.42,376,424,2023-05-16,Gaming Console 493
+P000198,NeoTech Headphones 172,NeoTech,Headphones,2361.71,INR,2292,3.91,160,297,2021-10-15,Headphones 172
+P000199,Skyline Laptop 495,Skyline,Laptop,7289.43,INR,1249,4.75,102,195,2023-03-23,Laptop 495
+P000200,PixelWave Phone Case 306,PixelWave,Phone Case,11765.9,INR,1829,3.98,239,446,2022-07-24,Phone Case 306
+P000201,PixelWave Smartphone 403,PixelWave,Smartphone,2182.3,INR,1627,4.16,282,436,2022-04-27,Smartphone 403
+P000202,Lumina Bluetooth Speaker 267,Lumina,Bluetooth Speaker,20785.25,INR,2802,3.5,254,208,2021-10-15,Bluetooth Speaker 267
+P000203,ZenX Charger 269,ZenX,Charger,37017.38,INR,1110,4.56,62,488,2023-02-10,Charger 269
+P000204,Everest Tablet 69,Everest,Tablet,13008.32,INR,295,3.45,58,98,2024-01-03,Tablet 69
+P000205,NovaLink Smartwatch 382,NovaLink,Smartwatch,21072.99,INR,544,2.78,451,53,2021-04-11,Smartwatch 382
+P000206,PixelWave Power Bank 28,PixelWave,Power Bank,8313.02,INR,2106,3.96,38,414,2024-07-27,Power Bank 28
+P000207,NovaLink Charger 359,NovaLink,Charger,3230.14,INR,1458,4.34,168,95,2024-10-30,Charger 359
+P000208,Skyline Smartphone 30,Skyline,Smartphone,12102.09,INR,1803,4.56,339,378,2022-07-10,Smartphone 30
+P000209,PixelWave Bluetooth Speaker 498,PixelWave,Bluetooth Speaker,12376.83,INR,118,4.15,109,168,2022-12-05,Bluetooth Speaker 498
+P000210,ByteCorp Wireless Earbuds 419,ByteCorp,Wireless Earbuds,6215.83,INR,1757,3.91,426,291,2024-01-11,Wireless Earbuds 419
+P000211,NovaLink Tablet 293,NovaLink,Tablet,6200.33,INR,1902,4.14,362,142,2024-02-29,Tablet 293
+P000212,ByteCorp Laptop 399,ByteCorp,Laptop,11448.24,INR,1911,3.57,391,50,2021-06-02,Laptop 399
+P000213,Lumina Charger 137,Lumina,Charger,6550.18,INR,2931,3.73,437,165,2021-05-13,Charger 137
+P000214,Lumina Headphones 199,Lumina,Headphones,2917.06,INR,1817,3.28,450,413,2022-07-10,Headphones 199
+P000215,ByteCorp Charger 297,ByteCorp,Charger,5182.33,INR,958,4.31,175,418,2024-06-16,Charger 297
+P000216,Astra Smartphone 18,Astra,Smartphone,6846.96,INR,2197,4.77,171,25,2024-02-18,Smartphone 18
+P000217,NeoTech Laptop 72,NeoTech,Laptop,15998.87,INR,565,3.71,192,190,2023-01-09,Laptop 72
+P000218,Skyline Phone Case 492,Skyline,Phone Case,3250.88,INR,781,4.51,28,407,2024-06-03,Phone Case 492
+P000219,Everest Bluetooth Speaker 192,Everest,Bluetooth Speaker,7005.34,INR,2424,3.51,403,93,2022-08-11,Bluetooth Speaker 192
+P000220,Everest Power Bank 97,Everest,Power Bank,7496.25,INR,247,4.04,327,261,2024-12-19,Power Bank 97
+P000221,Everest Bluetooth Speaker 276,Everest,Bluetooth Speaker,12629.81,INR,2265,5.0,411,98,2021-02-19,Bluetooth Speaker 276
+P000222,Everest Headphones 314,Everest,Headphones,12853.6,INR,2080,4.41,360,138,2024-05-19,Headphones 314
+P000223,NeoTech Laptop 27,NeoTech,Laptop,11211.31,INR,2010,3.79,469,390,2023-07-28,Laptop 27
+P000224,NovaLink Headphones 440,NovaLink,Headphones,5637.75,INR,1441,3.08,134,48,2023-10-23,Headphones 440
+P000225,NeoTech Monitor 117,NeoTech,Monitor,3685.27,INR,1144,3.41,81,457,2023-03-13,Monitor 117
+P000226,Skyline Smartphone 497,Skyline,Smartphone,6221.06,INR,723,4.66,405,184,2024-02-02,Smartphone 497
+P000227,NeoTech Gaming Console 313,NeoTech,Gaming Console,6144.94,INR,1359,4.16,83,24,2024-08-11,Gaming Console 313
+P000228,Lumina Smartwatch 473,Lumina,Smartwatch,8282.4,INR,2504,2.98,312,319,2023-01-21,Smartwatch 473
+P000229,Astra Wireless Earbuds 345,Astra,Wireless Earbuds,6849.69,INR,202,3.56,479,87,2024-02-16,Wireless Earbuds 345
+P000230,ZenX Gaming Console 72,ZenX,Gaming Console,7629.83,INR,1194,3.94,164,253,2021-01-01,Gaming Console 72
+P000231,NovaLink Charger 219,NovaLink,Charger,18520.65,INR,2508,4.11,132,443,2022-07-03,Charger 219
+P000232,Lumina Wireless Earbuds 24,Lumina,Wireless Earbuds,5318.46,INR,2912,4.38,469,146,2023-03-15,Wireless Earbuds 24
+P000233,Skyline Bluetooth Speaker 272,Skyline,Bluetooth Speaker,30527.54,INR,416,2.9,325,162,2022-02-21,Bluetooth Speaker 272
+P000234,ZenX Power Bank 274,ZenX,Power Bank,11291.96,INR,2109,4.12,135,231,2024-06-29,Power Bank 274
+P000235,PixelWave Power Bank 16,PixelWave,Power Bank,16825.23,INR,1884,4.76,342,124,2023-01-25,Power Bank 16
+P000236,Lumina Gaming Console 338,Lumina,Gaming Console,6739.38,INR,1851,3.7,365,49,2022-11-01,Gaming Console 338
+P000237,ZenX Laptop 327,ZenX,Laptop,13133.59,INR,1193,3.71,17,320,2024-01-03,Laptop 327
+P000238,Skyline Wireless Earbuds 238,Skyline,Wireless Earbuds,11306.62,INR,2497,3.14,138,348,2024-03-16,Wireless Earbuds 238
+P000239,Voltix Phone Case 429,Voltix,Phone Case,7127.54,INR,932,4.95,419,361,2021-10-12,Phone Case 429
+P000240,ByteCorp Bluetooth Speaker 177,ByteCorp,Bluetooth Speaker,6484.37,INR,111,4.54,110,82,2021-10-20,Bluetooth Speaker 177
+P000241,Everest Bluetooth Speaker 226,Everest,Bluetooth Speaker,11218.47,INR,2578,4.07,386,390,2023-08-12,Bluetooth Speaker 226
+P000242,Everest Smartphone 431,Everest,Smartphone,4807.95,INR,460,3.57,253,44,2022-06-25,Smartphone 431
+P000243,PixelWave Monitor 204,PixelWave,Monitor,11834.13,INR,1748,4.2,475,418,2023-09-03,Monitor 204
+P000244,ByteCorp Tablet 261,ByteCorp,Tablet,7884.59,INR,1424,3.76,59,72,2022-11-07,Tablet 261
+P000245,ByteCorp Bluetooth Speaker 307,ByteCorp,Bluetooth Speaker,2861.25,INR,2381,3.16,336,151,2024-07-19,Bluetooth Speaker 307
+P000246,PixelWave Headphones 460,PixelWave,Headphones,2319.21,INR,2475,4.19,52,135,2021-07-17,Headphones 460
+P000247,Astra Phone Case 247,Astra,Phone Case,13409.8,INR,1191,4.75,431,456,2024-08-11,Phone Case 247
+P000248,NeoTech Bluetooth Speaker 176,NeoTech,Bluetooth Speaker,17977.82,INR,2644,4.84,296,465,2024-08-08,Bluetooth Speaker 176
+P000249,Lumina Charger 286,Lumina,Charger,9143.58,INR,2170,3.1,284,29,2022-02-26,Charger 286
+P000250,ZenX Monitor 335,ZenX,Monitor,11896.05,INR,799,4.74,418,443,2023-03-06,Monitor 335
+P000251,ZenX Power Bank 315,ZenX,Power Bank,10185.93,INR,636,3.52,220,307,2021-11-02,Power Bank 315
+P000252,NovaLink Wireless Earbuds 125,NovaLink,Wireless Earbuds,4470.86,INR,2486,4.48,414,379,2024-12-20,Wireless Earbuds 125
+P000253,ByteCorp Charger 287,ByteCorp,Charger,10680.03,INR,867,4.04,152,169,2023-12-02,Charger 287
+P000254,Astra Phone Case 461,Astra,Phone Case,11784.15,INR,2416,3.58,42,496,2021-09-17,Phone Case 461
+P000255,Everest Bluetooth Speaker 210,Everest,Bluetooth Speaker,12429.13,INR,1241,3.59,374,455,2024-09-16,Bluetooth Speaker 210
+P000256,Skyline Charger 105,Skyline,Charger,2570.18,INR,1243,4.52,383,112,2022-04-06,Charger 105
+P000257,Astra Monitor 420,Astra,Monitor,7687.1,INR,2746,4.59,203,91,2022-12-20,Monitor 420
+P000258,ZenX Phone Case 281,ZenX,Phone Case,7201.91,INR,2436,4.41,372,287,2022-07-23,Phone Case 281
+P000259,NeoTech Wireless Earbuds 234,NeoTech,Wireless Earbuds,13282.9,INR,1744,3.8,229,248,2022-11-21,Wireless Earbuds 234
+P000260,Voltix Smartwatch 155,Voltix,Smartwatch,8066.38,INR,1787,4.47,394,408,2023-10-12,Smartwatch 155
+P000261,NeoTech Gaming Console 373,NeoTech,Gaming Console,5373.67,INR,1997,4.77,402,136,2021-08-13,Gaming Console 373
+P000262,Astra Headphones 44,Astra,Headphones,7382.89,INR,1789,4.68,186,119,2023-12-21,Headphones 44
+P000263,NovaLink Tablet 336,NovaLink,Tablet,7899.38,INR,1509,3.51,260,194,2022-07-12,Tablet 336
+P000264,NeoTech Bluetooth Speaker 31,NeoTech,Bluetooth Speaker,16060.62,INR,2639,4.6,276,16,2024-10-10,Bluetooth Speaker 31
+P000265,ByteCorp Tablet 197,ByteCorp,Tablet,12071.17,INR,2569,4.29,347,12,2022-07-21,Tablet 197
+P000266,NeoTech Tablet 365,NeoTech,Tablet,4563.74,INR,2455,4.72,258,446,2022-03-31,Tablet 365
+P000267,Voltix Laptop 115,Voltix,Laptop,5954.0,INR,1719,5.0,324,36,2021-12-28,Laptop 115
+P000268,Everest Smartphone 151,Everest,Smartphone,8933.01,INR,824,4.64,481,113,2022-05-02,Smartphone 151
+P000269,Astra Smartwatch 252,Astra,Smartwatch,5701.3,INR,1272,3.52,15,258,2023-01-19,Smartwatch 252
+P000270,ZenX Monitor 461,ZenX,Monitor,4424.95,INR,2441,3.65,219,83,2022-01-07,Monitor 461
+P000271,Astra Phone Case 370,Astra,Phone Case,6288.41,INR,992,3.8,76,258,2024-07-28,Phone Case 370
+P000272,Everest Gaming Console 449,Everest,Gaming Console,5467.38,INR,107,4.35,26,167,2023-03-18,Gaming Console 449
+P000273,Skyline Monitor 136,Skyline,Monitor,10841.31,INR,2418,4.18,98,128,2023-10-30,Monitor 136
+P000274,Skyline Smartphone 47,Skyline,Smartphone,2796.02,INR,1768,4.23,271,87,2021-11-08,Smartphone 47
+P000275,ZenX Bluetooth Speaker 382,ZenX,Bluetooth Speaker,14726.16,INR,1474,3.26,393,387,2021-09-30,Bluetooth Speaker 382
+P000276,Skyline Charger 385,Skyline,Charger,7017.33,INR,1541,4.64,27,362,2023-02-18,Charger 385
+P000277,PixelWave Tablet 418,PixelWave,Tablet,4362.41,INR,1745,3.82,442,453,2024-06-24,Tablet 418
+P000278,ZenX Wireless Earbuds 254,ZenX,Wireless Earbuds,10907.04,INR,2125,4.07,224,326,2024-01-03,Wireless Earbuds 254
+P000279,ByteCorp Laptop 459,ByteCorp,Laptop,13552.5,INR,1803,4.42,164,295,2024-10-12,Laptop 459
+P000280,Astra Smartwatch 253,Astra,Smartwatch,7290.1,INR,1391,4.2,410,495,2022-02-20,Smartwatch 253
+P000281,ZenX Gaming Console 81,ZenX,Gaming Console,7570.3,INR,734,4.35,444,109,2024-01-07,Gaming Console 81
+P000282,ZenX Smartphone 301,ZenX,Smartphone,7443.96,INR,1128,4.03,59,129,2023-02-10,Smartphone 301
+P000283,Skyline Power Bank 68,Skyline,Power Bank,15117.7,INR,2382,4.09,60,110,2022-05-29,Power Bank 68
+P000284,ByteCorp Headphones 157,ByteCorp,Headphones,9025.31,INR,728,3.71,359,269,2023-04-26,Headphones 157
+P000285,ByteCorp Smartphone 467,ByteCorp,Smartphone,7319.3,INR,1663,3.37,419,229,2023-12-17,Smartphone 467
+P000286,Astra Gaming Console 112,Astra,Gaming Console,22844.16,INR,2966,3.77,268,313,2024-05-27,Gaming Console 112
+P000287,Lumina Tablet 177,Lumina,Tablet,4597.86,INR,2284,5.0,387,4,2022-12-21,Tablet 177
+P000288,NovaLink Power Bank 304,NovaLink,Power Bank,11950.69,INR,277,3.58,145,122,2023-07-24,Power Bank 304
+P000289,ZenX Tablet 165,ZenX,Tablet,16253.37,INR,2412,3.77,100,10,2021-03-07,Tablet 165
+P000290,Everest Headphones 101,Everest,Headphones,4310.46,INR,2632,4.2,227,14,2022-11-27,Headphones 101
+P000291,Astra Monitor 279,Astra,Monitor,8676.08,INR,2323,3.4,302,54,2024-09-10,Monitor 279
+P000292,ByteCorp Bluetooth Speaker 376,ByteCorp,Bluetooth Speaker,12709.3,INR,934,4.44,440,477,2024-11-24,Bluetooth Speaker 376
+P000293,PixelWave Laptop 490,PixelWave,Laptop,5883.39,INR,264,3.73,237,415,2024-04-02,Laptop 490
+P000294,Everest Gaming Console 261,Everest,Gaming Console,23192.6,INR,2235,4.41,277,231,2021-10-23,Gaming Console 261
+P000295,Lumina Phone Case 413,Lumina,Phone Case,11453.21,INR,1124,3.92,325,247,2022-01-31,Phone Case 413
+P000296,Skyline Bluetooth Speaker 261,Skyline,Bluetooth Speaker,11311.18,INR,1177,3.77,196,216,2023-03-06,Bluetooth Speaker 261
+P000297,ZenX Gaming Console 219,ZenX,Gaming Console,19984.34,INR,2299,4.25,112,442,2021-12-06,Gaming Console 219
+P000298,NovaLink Headphones 294,NovaLink,Headphones,8575.65,INR,286,4.01,315,190,2022-02-10,Headphones 294
+P000299,NovaLink Monitor 216,NovaLink,Monitor,6187.65,INR,1293,3.95,167,136,2024-10-04,Monitor 216
+P000300,NeoTech Smartwatch 232,NeoTech,Smartwatch,15681.27,INR,2016,4.34,490,207,2023-09-27,Smartwatch 232
