@@ -29,7 +29,7 @@ The project uses a 5-table relational schema:
 
 A visual ER diagram is included below:
 
-![Database Schema](assets/database_schema.png)
+![Database Schema](db_schema.png)
 
 ---
 
